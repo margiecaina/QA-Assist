@@ -1,6 +1,6 @@
 # QA-Assist
 
-**QA-Assist** is an automation tool designed to streamline and enhance the Quality Assurance (QA) process for documents and datasets. It transforms manual, error-prone QA tasks into a reliable, efficient, and measurable workflow, helping teams maintain high-quality outputs while saving time and resources.
+**QA-Assist** is an automation tool designed to streamline and enhance the Quality Checking process for documents and datasets. It transforms manual, error-prone QA tasks into a reliable, efficient, and measurable workflow, helping teams maintain high-quality outputs while saving time and resources.
 
 ---
 
