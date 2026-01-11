@@ -2,6 +2,9 @@
 
 **QA-Assist** is an automation tool designed to streamline and enhance the Quality Checking process for documents and datasets. It transforms manual, error-prone QA tasks into a reliable, efficient, and measurable workflow, helping teams maintain high-quality outputs while saving time and resources.
 
+> ⚠️ **Note:** This repository contains a **portfolio version of a workflow I personally designed**. It uses **dummy data for demonstration purposes**. The production workflow I created is LOB-specific hence implemented differently and separately in the company environment for operational use.
+
+
 ---
 
 ## Main Purpose
